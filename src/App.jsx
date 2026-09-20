@@ -1,11 +1,8 @@
 import React from 'react'
-import Header from './components/Header';
 
 function App() {
   return (
-    <div className='w-full bg-amber-300 px-4 py-2'>
-      <Header />
-    </div>
+    <div className='bg-amber-200 h-full'>App</div>
   )
 }
 
